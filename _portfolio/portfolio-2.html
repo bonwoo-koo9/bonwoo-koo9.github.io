@@ -1,0 +1,13 @@
+---
+title: "Integrating Multi-Modality in All-round LLM-based Recommender System"
+excerpt: "<img src='/images/Multi_A_LLMRec_Stage1_Framework.png' style='width: 400px; height: auto;'><img src='/images/Multi_A_LLMRec_Overall_Framework.png' style='width: 400px; height: auto;'>
+<br/><br/>
+
+I have investigated state-of-the-art (SOTA) LLM-based Recommender Systems, with a particular focus on my mentor's project, [A-LLMRec](https://arxiv.org/abs/2404.11343) (by Sein Kim at KAIST DSAIL). I understand how to construct efficient LLM framework for downstream recommendation task without fine-tuning the LLM by stably blending pretrained CF-RecSys embeddings with natural language embeddings. I have gained insights how to create joint collaborative item-text embeddings using autoencoder while avoiding over-smoothed representation. Additionally, I have devised an alignment network that robustly aligns item embeddings from CF-based RecSys in the token space of LLM. Furthermore, I have acquired knowledge of designing LLM prompt which can incorporate modality information and integrate collaborative knowledge with recommendation instructions without fine-tuning the LLM <br/><br/>
+
+Building upon the findings of this study, I have enhanced the framework to seamlessly incorporate multi-modal data like item images. Instead of a single item encoder trained by matching loss with item text description encoder, I have implemented cross attention mechanism and contrastive learning to effectively integrate the multi-modality between item embeddings and meta data embeddings. These new integrated item encoder have produced better embeddings for soft prompt in LLM recommendation tasks. 
+"
+collection: portfolio
+---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
