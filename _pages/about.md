@@ -25,7 +25,8 @@ My research interest lies in Safe and Explainable AI, particulary in the fields 
 
 ## <a id="news"></a>News
 <!-- * 2024.08 Started a research internship at *GeorgiaTech X Emory,* [ViTAL Lab](https://kwonvitallab.github.io/),  -->
-* 2024.06 Awarded 2024 South Korea-US STEM Exchange Program Scholarship by KIAT
+* 2024.06 Awarded 2024 South Korea-US STEM Exchange Program Scholarship by the Minister of Trade, Industry, and Energy
+* 2024.02 I got accepted to GeorgiaTech for an exchange program this coming 2024 Fall!
 * 2023.12 Started a research internship at *KAIST,* [*DSAIL*](https://dsail.kaist.ac.kr/) 
 * 2023.12 A co-first author paper got accepted at *EAAI Vol 128*
 * 2022.06 Started a research intership at *KAIST*, [*Financial Engineering Lab*](https://felab.kaist.ac.kr/)
