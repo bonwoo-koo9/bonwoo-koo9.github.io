@@ -7,9 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
-  </br></br>
-{% endfor %}
+  {% if post.name == 'project1' %}
+  <br id="portfolio1">
 
+  {% elsif post.name == 'project2' %}
+  <br id="portfolio2">
+  {% endif %}
+
+  {% include archive-single.html %}
+
+{% endfor %}

@@ -6,11 +6,14 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
+
+
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
   {% assign title = post.title %}
 {% endif %}
+
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -28,9 +31,9 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        {{ title }} <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {{ post.title }} <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span>
       {% else %}
-        {{ title }}
+        {{ post.title }}
       {% endif %}
     </h2>
     
