@@ -1,7 +1,7 @@
 ---
 name: "project1"
 title: "Explainable Deep Clustering for Financial Customer Profiling"
-excerpt: "<img src='/images/FE Research Vis.png' style='width: 800px; height: auto;'><br/><br/>
+excerpt: "<b>For more details, check out my note on Notion: [[link]](https://bonwookoo.notion.site/FE-Lab-Internship-6ecd1adf87644e85ab41829a5884058c?pvs=4)</b><br><img src='/images/FE Research Vis.png' style='width: 800px; height: auto;'><br/><br/>
 
 Starting as a project for BigData Competition in NH Investment & Securities with the topic of Advanced Customer Profiling and Personalized Investment Portfolio Curation, I extended our project with teammates into an academic research initiative using high-dimensional cross-sectional data from Korea Institute of Public Finance. <br/><br/>
 
