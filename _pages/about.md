@@ -8,19 +8,20 @@ redirect_from:
 
 ---
 
-Hi, I'm a South Korean student who has grown up in Korea and Mexico. As a senior in [the Department of Industrial & Systems Engineering](https://ise.kaist.ac.kr/) at KAIST, I've been doing research in the [Data Science & Artificial Intelligence Lab](https://dsail.kaist.ac.kr/), advised by [Prof.Chanyoung Park](https://dsail.kaist.ac.kr/professor/)
+Hi, I'm a South Korean student who has grown up in Korea and Mexico. I am a senior in [the Department of Industrial & Systems Engineering](https://ise.kaist.ac.kr/) at KAIST, and I am currently in the exchange program at Georgia Institute of Technology. I've started a new research in the [ViTAL Lab](https://kwonvitallab.github.io/) at [GeorgiaTech X Emory Biomedical Engineering](https://bme.gatech.edu/bme/) advised by [Prof.Hyeokhyen Kwon](https://kwonvitallab.github.io/members/hyeok-kwon.html).
 
 For the past two years of undergraduate research, I have worked on <a href="{{ '/portfolio/#portfolio1' | relative_url }}">Explainable Deep Clustering in finance</a> and <a href="{{ '/portfolio/#portfolio2' | relative_url }}">LLM-based Recommender Systems in e-commerce</a>. 
 
-My research interest lies in Safe and Explainable AI, particulary in the fields of social welfare such as healthcare, finance, and education. Currently, I'm focused on Explainable Deep Learning and Large Language Models to leverage AI for the betterment of society. Going on, I aim to utilize AI to address issues in healthcare, especially in Mental Health and Brain Health. 
+My research interest lies in Safe and Explainable AI, particulary in the fields of social welfare such as healthcare, finance, and education. Currently, I'm focused on XAI and Multi-modal AI to leverage AI for the betterment of society. I aim to utilize AI to address issues in healthcare, especially in Mental Health and Brain Health. 
 * Data-driven Deep Learning
 * Trustworthy Large Language Model
 * Multi-modal Recommender Systems
-* Machine Learning in Mental Health and Brain Health (Coming Soon)
+* Machine Learning in Mental Health and Brain Health
 
 
 ## <a id="news"></a>News
 <!-- * 2024.08 Started a research internship at *GeorgiaTech X Emory,* [ViTAL Lab](https://kwonvitallab.github.io/),  -->
+* 2024.08 Started a research internship at *GeorgiaTech X Emory,* [*ViTAL Lab*](https://kwonvitallab.github.io/) 
 * 2024.06 Awarded 2024 South Korea-US STEM Exchange Program Scholarship by the Ministry of Trade, Industry, and Energy
 * 2024.02 I got accepted to GeorgiaTech for an exchange program this coming 2024 Fall!
 * 2023.12 Started a research internship at *KAIST,* [*DSAIL*](https://dsail.kaist.ac.kr/) 
