@@ -21,14 +21,14 @@ repository               : "bonwoo-koo9/bonwoo-koo9.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo_bonwoo_main.jpg"
+  avatar           : "BONWOO_HEADSHOT_PHOTO.jpg"
   name             : "Bonwoo Koo"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student at KAIST"
   location         : "Daejeon, South Korea"
   employer         : "KAIST"
   uri              : # URL
-  email            : "kbw8258@gmail.com" 
+  email            : "kbw9896@kaist.ac.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

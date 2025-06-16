@@ -8,19 +8,20 @@ redirect_from:
 
 ---
 
-Hi, I'm a South Korean student who has grown up in Korea and Mexico. I am a senior in [the Department of Industrial & Systems Engineering](https://ise.kaist.ac.kr/) at KAIST, and I am currently in the exchange program at Georgia Institute of Technology. I've started a new research in the [ViTAL Lab](https://kwonvitallab.github.io/) at [GeorgiaTech X Emory Biomedical Engineering](https://bme.gatech.edu/bme/) advised by [Prof.Hyeokhyen Kwon](https://kwonvitallab.github.io/members/hyeok-kwon.html).
+Hi, I'm a South Korean student who has grown up in Korea and Mexico. I am a senior in [the Department of Industrial & Systems Engineering](https://ise.kaist.ac.kr/) at KAIST. I have conducted research in diverse environments, including KAIST and during my exchange program at Georgia Tech X Emory. Over the past few years of research, I have worked on 
+* <a href="{{ '/portfolio/#portfolio1' | relative_url }}">Explainable Deep Clustering in finance</a> 
+* <a href="{{ '/portfolio/#portfolio2' | relative_url }}">LLM-based Recommender Systems in e-commerce</a>
+* <a href="{{ '/portfolio/#portfolio3' | relative_url }}">Wearables in Neurodegenerative Diseases Detection</a>
 
-For the past two years of undergraduate research, I have worked on <a href="{{ '/portfolio/#portfolio1' | relative_url }}">Explainable Deep Clustering in finance</a> and <a href="{{ '/portfolio/#portfolio2' | relative_url }}">LLM-based Recommender Systems in e-commerce</a>. 
-
-My research interest lies in Safe and Explainable AI, particulary in the fields of social welfare such as healthcare, finance, and education. Currently, I'm focused on XAI and Multi-modal AI to leverage AI for the betterment of society. I aim to utilize AI to address issues in healthcare, especially in Mental Health and Brain Health. 
-* Data-driven Deep Learning
-* Trustworthy Large Language Model
-* Multi-modal Recommender Systems
-* Machine Learning in Mental Health and Brain Health
+My research interest lies in Data Science and Wearable Technology, particularly within the domain of healthcare. Currently, I'm focused on Multi-modal AI and Sensor Data Science, leveraging AI for the betterment of clinical decision-making and daily life monitoring. I aim to utilize AI to address challenges faced by the aging population, especially in Mental Health and Brain Health. 
+* Deep Learning in Sensor Data Science
+* Wearables & Human Activity Recognition
+* Affective Computing
+* Brain-Computer Interface
 
 
 ## <a id="news"></a>News
-<!-- * 2024.08 Started a research internship at *GeorgiaTech X Emory,* [ViTAL Lab](https://kwonvitallab.github.io/),  -->
+* 2025.06 Started a research internship at *KAIST,* [*IC Lab*](https://ic.kaist.ac.kr/) 
 * 2024.08 Started a research internship at *GeorgiaTech X Emory,* [*ViTAL Lab*](https://kwonvitallab.github.io/) 
 * 2024.06 Awarded 2024 South Korea-US STEM Exchange Program Scholarship by the Ministry of Trade, Industry, and Energy
 * 2024.02 I got accepted to GeorgiaTech for an exchange program this coming 2024 Fall!
@@ -34,6 +35,11 @@ My research interest lies in Safe and Explainable AI, particulary in the fields 
 </pre>
 
 ## <a id="publications"></a>Publications
+
+**Quantifying Mild Cognitive Impairments in Older Adults Using Multi-modal Wearable Sensor Data in a Kitchen Environment**  [[Link]](https://www.medrxiv.org/content/10.1101/2025.05.24.25328107v1)
+<br>
+<em><u>Bonwoo Koo</u>, Ibrahim Bilau, Amy D. Rodriguez, Eunhwa Yang, Hyeokhyen Kwon</em>  
+<em>Preprint</em> 
 
 **Network-based exploratory data analysis and explainable three-stage deep clustering for financial customer profiling**  [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0952197623015622?via%3Dihub)
 <br>
