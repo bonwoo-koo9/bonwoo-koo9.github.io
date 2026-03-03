@@ -24,11 +24,11 @@ author:
   avatar           : "BONWOO_HEADSHOT_PHOTO.jpg"
   name             : "Bonwoo Koo"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Student at KAIST"
+  bio              : "Master's Student at KAIST"
   location         : "Daejeon, South Korea"
   employer         : "KAIST"
   uri              : # URL
-  email            : "kbw9896@kaist.ac.kr" 
+  email            : "bonwoo.koo@kaist.ac.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

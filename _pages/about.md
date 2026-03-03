@@ -8,19 +8,19 @@ redirect_from:
 
 ---
 
-Hi, I'm a South Korean student who has grown up in Korea and Mexico. I am a senior in [the Department of Industrial & Systems Engineering](https://ise.kaist.ac.kr/) at KAIST. I have conducted research in diverse environments, including KAIST and during my exchange program at Georgia Tech X Emory. Over the past few years of research, I have worked on 
-* <a href="{{ '/portfolio/#portfolio1' | relative_url }}">Explainable Deep Clustering in finance</a> 
-* <a href="{{ '/portfolio/#portfolio2' | relative_url }}">LLM-based Recommender Systems in e-commerce</a>
+Hi, I'm a South Korean student who has grown up in Korea and Mexico. I am a Master's student in [Graduate School of Data Science](https://gsds.kaist.ac.kr/) at KAIST. I have conducted research in diverse environments, including KAIST and during my exchange program at Georgia Tech X Emory. Over the past few years of research, I have worked on 
+* <a href="{{ '/portfolio/#portfolio1' | relative_url }}">Explainable Deep Clustering in Finance</a> 
+* <a href="{{ '/portfolio/#portfolio2' | relative_url }}">LLM-based Recommender Systems in E-commerce</a>
 * <a href="{{ '/portfolio/#portfolio3' | relative_url }}">Wearables in Neurodegenerative Diseases Detection</a>
 
-My research interest lies in Data Science and Wearable Technology, particularly within the domain of healthcare. Currently, I'm focused on Multi-modal AI and Sensor Data Science, leveraging AI for the betterment of clinical decision-making and daily life monitoring. I aim to utilize AI to address challenges faced by the aging population, especially in Mental Health and Brain Health. 
-* Deep Learning in Sensor Data Science
-* Wearables & Human Activity Recognition
-* Affective Computing
-* Brain-Computer Interface
+My research interest lies in Data Science and Wearable Technology, particularly within the domain of healthcare. Currently, I'm focused on Sensor Data Science and Wearable Foundation Model, leveraging AI for the betterment of disease early screening and intervention in daily life.
+* Sensor Data Science
+* Wearables & Foundation Models
+* Physical AI
 
 
 ## <a id="news"></a>News
+* 2026.03 Started a Master's program at *KAIST,* [*IC Lab*](https://ic.kaist.ac.kr/) 
 * 2025.06 Started a research internship at *KAIST,* [*IC Lab*](https://ic.kaist.ac.kr/) 
 * 2024.08 Started a research internship at *GeorgiaTech X Emory,* [*ViTAL Lab*](https://kwonvitallab.github.io/) 
 * 2024.06 Awarded 2024 South Korea-US STEM Exchange Program Scholarship by the Ministry of Trade, Industry, and Energy
@@ -36,12 +36,12 @@ My research interest lies in Data Science and Wearable Technology, particularly 
 
 ## <a id="publications"></a>Publications
 
-**Quantifying Mild Cognitive Impairments in Older Adults Using Multi-modal Wearable Sensor Data in a Kitchen Environment**  [[Link]](https://www.medrxiv.org/content/10.1101/2025.05.24.25328107v1)
+**Visual Accessibility Through Open Shelving: Impacts on Cognitive Load, Motivation, Physical Activity, and User Perception in Older Adults with Mild Cognitive Impairment**  [[Link]](https://www.tandfonline.com/doi/full/10.1080/26892618.2025.2576213)
 <br>
-<em><u>Bonwoo Koo</u>, Ibrahim Bilau, Amy D. Rodriguez, Eunhwa Yang, Hyeokhyen Kwon</em>  
-<em>Preprint</em> 
+<em>Ibrahim Bilau, <u>Bonwoo Koo</u>, Esther Fu, Wendy Chau, Hyeokhyen Kwon, Eunhwa Yang</em>  
+<em>Journal of Aging and Environment, Nov 2025</em> 
 
-**Network-based exploratory data analysis and explainable three-stage deep clustering for financial customer profiling**  [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0952197623015622?via%3Dihub)
+**Network-based Exploratory Data Analysis and Explainable Three-stage Deep Clustering for Financial Customer Profiling**  [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0952197623015622?via%3Dihub)
 <br>
 <em>Insu Choi<sup>*1</sup>, Woosung Koh<sup>*1</sup>, <u>Bonwoo Koo<sup>*1</sup></u>, Woo Chang Kim<sup>*2</sup></em>  
 <em>Engineering Applications of Artificial Intelligence, Volume 128, Feb 2024</em> 
